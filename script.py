@@ -1,5 +1,5 @@
 # IMPORTANT:
-# This sctip
+# This script
 # Overall file was Rolling Resistance Data.csv
 #     -> This file contained data from multiple trial runs, 'pull-backs', bad data, etc
 #     -> FIltered files do not match up with the videos, so I am using the overall .csv file right now.
